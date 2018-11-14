@@ -9197,7 +9197,7 @@ mark {
 }
 
 .profile img {
-    width: 250px;
+    width: 29%;
     /* border-radius: 100%; */
     border: 2px solid white;
     padding: 5px;
@@ -9207,7 +9207,7 @@ mark {
 }
 
 .profilebig img {
-    width: 405px;
+    width: 47%;
     /* border-radius: 100%; */
     border: 2px solid white;
     padding: 5px;
