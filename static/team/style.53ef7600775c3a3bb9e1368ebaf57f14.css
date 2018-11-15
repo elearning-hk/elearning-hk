@@ -9223,18 +9223,18 @@ mark {
 }
 
 .cmember {
-    width: 170px;
+    width: 25%;
     height: 200px;
     position: relative;
     float: left;
 }
 
 .cmember img {
-    width: 140px;
+    width: 80%;
     border-radius: 0%;
     border: 3px solid;
     padding: 0px;
-    margin: 0px 15px 5px 15px;
+    margin: 0px 10% 5px 10%;
     position: relative;
     float: left;
 }
