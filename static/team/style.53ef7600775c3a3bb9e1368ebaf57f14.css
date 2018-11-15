@@ -8756,7 +8756,7 @@ footer i {
 }
 
 footer .footer_logo img {
-    margin: 15px 15px 15px 15px;
+    margin: 15px 10px 15px 0px;
     height: 4rem;
 }
 
@@ -9219,7 +9219,7 @@ mark {
 }
 
 .profile .profile_text .profile_source::before {
-    content: "Biography: ";
+    content: " ";
 }
 
 .cmember {
