@@ -9197,18 +9197,16 @@ mark {
 }
 
 .profile img {
-    width: 29%;
-    /* border-radius: 100%; */
+    width: 30%;
     border: 2px solid white;
     padding: 5px;
-    margin: 5px 15px 10px 15px;
+    margin: 5px 1% 5px 1%;
     position: relative;
     float: center;
 }
 
 .profilebig img {
     width: 47%;
-    /* border-radius: 100%; */
     border: 2px solid white;
     padding: 5px;
     margin: 5px 10px 10px 10px;
