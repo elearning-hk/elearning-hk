@@ -9207,9 +9207,9 @@ mark {
 
 .profilebig {
     width: 47%;
-    border: 2px solid white;
-    padding: 5px;
-    margin: 5px 10px 10px 10px;
+    /* border: 2px solid white;
+    padding: 5px; */
+    margin: 5px 5px 10px 5px;
     position: relative;
     float: left;
 }
