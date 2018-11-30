@@ -9205,7 +9205,7 @@ mark {
     float: center;
 }
 
-.profilebig img {
+.profilebig {
     width: 47%;
     border: 2px solid white;
     padding: 5px;
@@ -9213,6 +9213,11 @@ mark {
     position: relative;
     float: left;
 }
+
+
+/* .profilebig p {
+    align-content: center;
+} */
 
 .profile .profile_text {
     min-height: 150px;
