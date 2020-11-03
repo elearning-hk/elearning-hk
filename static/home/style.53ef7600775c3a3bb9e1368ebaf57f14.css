@@ -8726,7 +8726,7 @@ footer a:hover {
 }
 
 footer .container {
-    background-color: #1d1a16;
+    background-color: #acadab;
 }
 
 footer h1,
@@ -8806,7 +8806,8 @@ mark {
 }
 
 .container-hero {
-    background: url(/static/home/digitallearning1.png);
+    /* background: url(/static/home/digitallearning1.png); */
+    background: url(/static/home/Intro_Team_3.jpeg);
     background-size: cover;
     background-position: center;
     height: 480px;
@@ -8841,6 +8842,7 @@ mark {
 
 .container-hero .row .hero-content .btn,
 .container-hero .events-well .hero-content .btn {
+    margin-top: 80px;
     text-shadow: none;
 }
 

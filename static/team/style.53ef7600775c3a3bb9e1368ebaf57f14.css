@@ -8731,7 +8731,7 @@ footer a:hover {
 }
 
 footer .container {
-    background-color: #1d1a16;
+    background-color: #acadab;
 }
 
 footer h1,
@@ -9224,13 +9224,14 @@ mark {
 
 .cmember {
     width: 25%;
-    height: 200px;
+    height: 280px;
     position: relative;
     float: left;
 }
 
 .cmember img {
     width: 80%;
+    height: 230px;
     border-radius: 0%;
     border: 3px solid;
     padding: 0px;
